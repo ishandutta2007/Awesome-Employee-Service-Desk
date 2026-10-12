@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global IT and Employee Service Desk / Enterprise Service Management (ESM) market is estimated at approximately **$13.5B – $15.7B in 2025–2026**, on pace to exceed **$21B – $36B by 2030** with an annual growth rate (CAGR) of 12% to 15%. The market is **moderately fragmented**: mega-cap enterprise incumbents (like Salesforce, ServiceNow, and Atlassian) concentrate high-end enterprise workloads, while agile mid-market platforms (Freshservice, SolarWinds) and specialized AI-first autonomous support platforms (Moveworks, Leena AI, Espressive) capture significant, fast-growing niches without creating a single winner-take-all monopoly.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Employee Service](https://www.salesforce.com/)**  
-
-  Employee support built on Service Cloud. Features HR Service Center for case management, Employee Workspace as a digital desk, and Employee Concierge for self-service. Integrates with Workday, SAP, and other HCM systems.
-
-
-
-- **[ServiceNow HR Service Delivery](https://www.servicenow.com/)**  
-
-  Enterprise HR service delivery platform. Features case management, knowledge base, employee portal, and AI-powered virtual agent. Integrated with ServiceNow ITSM for unified service operations.
-
-
-
-- **[Freshservice](https://freshservice.com/)**  
-
-  Cloud-based IT service desk and ITSM platform. Features ticketing, automation, asset management, and project management. Includes HR service delivery module for employee requests.
-
-
-
-- **[Jira Service Management](https://www.atlassian.com/software/jira/service-management)**  
-
-  Enterprise service management platform from Atlassian. Features request types, queues, SLAs, and knowledge base. Includes HR service management templates and integration with Jira Software.
-
-
-
-- **[Zendesk Employee Experience](https://www.zendesk.com/)**  
-
-  Internal help desk solution for employee support. Features ticketing, knowledge base, and self-service portal. Integrates with HRIS and IT systems.
-
-
-
-- **[Espressive Barista](https://www.espressive.com/)**  
-
-  AI-powered virtual support agent for employee self-help. Features natural language understanding, ticket deflection, and integrations with ServiceNow, Slack, and Microsoft Teams.
-
-
-
-- **[Spoke](https://www.spoke.ai/)**  
-
-  AI-powered internal help desk. Features automated request routing, knowledge suggestions, and integrations with Slack and Microsoft Teams.
-
-
-
-- **[Moveworks](https://www.moveworks.com/)**  
-
-  AI-powered employee support platform. Features autonomous issue resolution, knowledge retrieval, and workflow automation across IT, HR, and finance.
-
-
-
-- **[Leena AI](https://leena.ai/)**  
-
-  Conversational AI platform for HR and IT service management. Features employee helpdesk automation, onboarding workflows, and integrations with Workday, ServiceNow, and Slack.
-
-
-
-- **[SolarWinds Service Desk](https://www.solarwinds.com/service-desk)**  
-
-  IT service management platform with employee service portal. Features ticketing, asset management, and knowledge base. AI-powered recommendations for faster resolution.
+| Platform | Company Size (Valuation / Revenue) | Starting Price (Paid Tier) | Free Tier / Trial Limits | Description |
+|---|---|---|---|---|
+| **[Salesforce Employee Service](https://www.salesforce.com/)** | ~$280B Market Cap (~$38B ARR) | $50 / user / month (HR Service Desk Enterprise) | 30-day free trial; full feature evaluation access with pre-configured sample data | Employee support built on Service Cloud featuring HR Service Center, Employee Workspace, and Concierge self-service. |
+| **[ServiceNow HR Service Delivery](https://www.servicenow.com/)** | ~$190B Market Cap (~$11B ARR) | Custom quote (typically ~$60 - $100 / employee / year base or ~$60 - $180 / agent / month) | 10-day inactivity expiration Personal Developer Instance (PDI); hibernation after idle hours | Enterprise HR service delivery and ESM platform featuring case management, knowledge bases, and virtual agents. |
+| **[Atlassian Jira Service Management](https://www.atlassian.com/software/jira/service-management)** | ~$50B Market Cap (~$4.5B ARR) | $22.05 / agent / month (Standard tier, billed monthly) | Free for up to 3 agents, 2 GB file storage, unlimited customers, and 100 automation rules/month | Enterprise service management for IT and HR request intake, incident resolution, queues, and Atlassian ecosystem workflows. |
+| **[Zendesk Employee Experience](https://www.zendesk.com/)** | ~$10.2B Valuation (PE-owned, ~$1.7B ARR) | $55 / agent / month (Suite Team tier, billed annually) | 14-day free trial; full Suite features, up to 5 trial agent seats, and standard ticketing channels | Comprehensive internal help desk for employee HR/IT intake, omni-channel tickets, and self-service knowledge base. |
+| **[SolarWinds Service Desk](https://www.solarwinds.com/service-desk)** | ~$2.2B Market Cap (~$780M ARR) | $39 / technician / month (Essentials tier, billed annually) | 30-day free trial; full access to enterprise features, asset tracking, and unlimited requestors | Cloud IT service management platform featuring employee self-service portals, asset discovery, and ticket automation. |
+| **[Moveworks](https://www.moveworks.com/)** | ~$2.1B Valuation (~$100M+ ARR) | Custom enterprise quote (AWS Marketplace entry: ~$150 / user / year; $90,000+ annual minimum) | No free tier or self-serve trial; enterprise Proof of Concept (PoC) / sandbox demo available via sales | Generative AI autonomous platform resolving employee requests and workflows across IT, HR, and finance systems. |
+| **[Freshservice](https://freshservice.com/)** | Freshworks: ~$4.5B Market Cap (~$720M ARR) | $19 / agent / month (Starter tier, billed annually) | 14-day free trial; full Pro/Enterprise features, up to 10 trial agents, and unlimited end-user tickets | Cloud-based IT service desk and ITSM with service catalog, asset tracking, and dedicated HR service delivery modules. |
+| **[Leena AI](https://leena.ai/)** | ~$500M+ Valuation (~$25M ARR) | Custom quote (Marketplace baseline starts at ~$150 / employee / year; minimum seat requirements apply) | No free tier or self-serve trial; enterprise pilot / proof of concept via sales demo | Conversational AI and autonomous AI agents for HR/IT service management and employee workflow automation. |
+| **[Espressive Barista](https://www.espressive.com/)** | ~$150M - $200M Valuation (~$12M ARR; Acquired by Resolve) | Custom quote (typically $2 - $6 / employee / month based on enterprise headcount) | No free tier or self-serve trial; interactive enterprise pilot / guided sandbox available via sales | AI-driven virtual support agent (Barista) providing natural language request resolution across HR and IT stacks. |
+| **[Spoke](https://www.spoke.ai/)** | Acquired by Salesforce/Slack (~$10M - $20M prior valuation) | Merged into Slack AI enterprise add-on ($10 / user / month on Slack Pro/Business+) | Formerly offered 14-day free trial with 100 free query deflections; standalone registration now closed | AI-powered internal help desk and Slack-native summarization and automated ticket routing. |
 
 
 
