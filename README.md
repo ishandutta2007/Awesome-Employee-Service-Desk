@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Employee-Service-Desk/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Service-Desk?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Service-Desk/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Service-Desk?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Service-Desk/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Service-Desk?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Service-Desk/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Employee-Service-Desk?style=flat-square" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Service-Desk/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-blue.svg?style=flat-square" alt="License"/></a>
@@ -85,72 +85,72 @@ The sector exhibits **moderate fragmentation**:
 
 ## 💻 Open-Source GitHub Projects
 
-*Production-ready self-hosted service desks, HR helpdesks, and ITSM solutions sorted in descending order by GitHub Stars.*
+*Production-ready self-hosted service desks, HR helpdesks, and ITSM solutions sorted in descending order by GitHub_Stars.*
 
-- 🚀 **[PostHog](https://github.com/PostHog/posthog)** [![GitHub Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+- 🚀 **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   Support ticketing, customer session analysis, and issue workflows integrated directly into the PostHog platform. Multi-channel support via embedded web widget, Slack, Microsoft Teams, and email. Django REST Framework backend with Redis caching, PostgreSQL persistence, and an AI suggestion engine for drafting responses.
 
-- 💬 **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- 💬 **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   Leading open-source omnichannel customer and employee engagement platform (MIT) built with Ruby on Rails and Vue.js. Provides shared team inboxes, live chat widgets, email piping, and integrations with Slack, WhatsApp, and SMS for seamless internal helpdesk operations.
 
-- 🛠️ **[UVdesk Community Helpdesk](https://github.com/uvdesk/community-skeleton)** [![GitHub Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
+- 🛠️ **[UVdesk Community Helpdesk](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
   Comprehensive open-source ticketing support system (MIT) built on Symfony and PHP. Features custom workflows, multi-channel ticket generation (email, web forms), role-based agent access, automated ticket dispatch rules, and a dedicated employee customer portal.
 
-- 👥 **[Frappe HR / HRMS](https://github.com/frappe/hrms)** [![GitHub Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+- 👥 **[Frappe HR / HRMS](https://github.com/frappe/hrms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
   Complete open-source HRMS (GPL-3.0) with over 13 modules including employee onboarding, lifecycle tracking, leaves, attendance, payroll, and an integrated **Helpdesk Ticketing Module**. Built on Frappe Framework with Python and Vue-based UI, deployed with Docker and MariaDB/PostgreSQL.
 
-- 🖥️ **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+- 🖥️ **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   Enterprise-grade IT Service Management and asset software (GPL-3.0) with web-based interface. Provides ITIL-compliant helpdesk, automated network inventory, software deployment, knowledge base, incident/change/problem management, SLA enforcement, and multi-entity administration.
 
-- 🎫 **[Zammad](https://github.com/zammad/zammad)** [![GitHub Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+- 🎫 **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   Modern web-based open-source helpdesk and ticketing platform (AGPL-3.0) built on Ruby on Rails and Elasticsearch. Supports multi-channel intake (email, telephone, chat, social), real-time ticket updates with collision detection, customer portals, custom SLAs, and multi-department agent structures.
 
-- 📬 **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
+- 📬 **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
   Ultra-lightweight, self-hosted Help Scout and Zendesk alternative (AGPL-3.0) built with PHP/Laravel and MySQL. Features unlimited users, unlimited tickets, shared mailboxes, 100% mobile readiness, multilingual interface (23+ languages), Microsoft Exchange/OAuth integration, push notifications, and collision detection.
 
-- 📨 **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+- 📨 **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
   Battle-tested open-source customer support ticketing engine (GPL-2.0) with over two decades of production heritage. Features email piping, customizable ticket fields, rich text knowledge bases, auto-responders, SLA rules, internal team transfers, and detailed agent audit reporting.
 
-- ⚡ **[Chaskiq](https://github.com/chaskiq/chaskiq)** [![GitHub Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)  
+- ⚡ **[Chaskiq](https://github.com/chaskiq/chaskiq)** [![GitHub_Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)  
   Full-featured open-source conversational support platform (GPL-3.0) alternative to Intercom and Drift. Features chat widgets, omnichannel bot intake, onboarding journeys, knowledge base articles, and video calls for real-time remote employee assistance.
 
-- 🗂️ **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
+- 🗂️ **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
   Sleek, modern, dedicated open-source ticket management solution built on Frappe Framework. Offers distinct portals for agents and employees, customizable SLA policies, automated assignment matrices, and rich knowledge base publishing.
 
-- 🌿 **[Peppermint](https://github.com/Peppermint-Lab/peppermint)** [![GitHub Stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)  
+- 🌿 **[Peppermint](https://github.com/Peppermint-Lab/peppermint)** [![GitHub_Stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)  
   Modern lightweight issue management and help desk system (MIT) built with Node.js and React. Designed as a clean self-hosted alternative to Jira Service Management and Zendesk for tech-forward internal teams.
 
-- 🦔 **[LibreDesk](https://github.com/abhinavxd/libredesk)** [![GitHub Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)  
+- 🦔 **[LibreDesk](https://github.com/abhinavxd/libredesk)** [![GitHub_Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)  
   Fast, self-hosted support desk distributed in a single binary (Go + SQLite/PostgreSQL). Designed as a lightweight, zero-dependency alternative to Intercom and Chatwoot for internal service desks.
 
-- 🔍 **[Gerev](https://github.com/GerevAI/gerev)** [![GitHub Stars](https://img.shields.io/github/stars/GerevAI/gerev?style=social&color=white)](https://github.com/GerevAI/gerev/stargazers)  
+- 🔍 **[Gerev](https://github.com/GerevAI/gerev)** [![GitHub_Stars](https://img.shields.io/github/stars/GerevAI/gerev?style=social&color=white)](https://github.com/GerevAI/gerev/stargazers)  
   Open-source AI-powered enterprise search engine (Apache-2.0) for internal workplace knowledge. Indexes documents, tickets, Slack, and Notion to provide instant self-service answers to employee IT and HR queries.
 
-- 📞 **[Live Helper Chat](https://github.com/livehelperchat/livehelperchat)** [![GitHub Stars](https://img.shields.io/github/stars/livehelperchat/livehelperchat?style=social&color=white)](https://github.com/livehelperchat/livehelperchat/stargazers)  
+- 📞 **[Live Helper Chat](https://github.com/livehelperchat/livehelperchat)** [![GitHub_Stars](https://img.shields.io/github/stars/livehelperchat/livehelperchat?style=social&color=white)](https://github.com/livehelperchat/livehelperchat/stargazers)  
   Mature self-hosted open-source live help desk and web chat software (Apache-2.0). Features voice and video calling, screen sharing, Telegram/Slack bot integrations, and automated department routing for real-time employee IT support.
 
-- 🎫 **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+- 🎫 **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
   Open-source helpdesk solution (Apache-2.0) built on Node.js and MongoDB. Clean UI with real-time WebSocket updates, multi-department team management, internal knowledge base, SLA tracking, and custom issue categories.
 
-- 💼 **[Horilla HR](https://github.com/horilla/horilla-hr)** [![GitHub Stars](https://img.shields.io/github/stars/horilla/horilla-hr)](https://github.com/horilla/horilla-hr/stargazers)  
+- 💼 **[Horilla HR](https://github.com/horilla/horilla-hr)** [![GitHub_Stars](https://img.shields.io/github/stars/horilla/horilla-hr)](https://github.com/horilla/horilla-hr/stargazers)  
   Modern open-source HR software (LGPL-2.1) built on Python/Django. Features recruitment, onboarding, attendance, leave management, asset tracking, and a built-in **Employee Helpdesk module** for cross-departmental workplace requests.
 
-- ⚙️ **[iTop](https://github.com/Combodo/iTop)** [![GitHub Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+- ⚙️ **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   Complete open-source IT Operations Portal and ITIL-compliant service management tool (AGPL-3.0). Includes a fully customizable CMDB, multi-organization helpdesk, document management, change workflows, and graphical impact analysis.
 
-- 🔄 **[Znuny](https://github.com/znuny/znuny)** [![GitHub Stars](https://img.shields.io/github/stars/znuny/znuny?style=social&color=white)](https://github.com/znuny/znuny/stargazers)  
+- 🔄 **[Znuny](https://github.com/znuny/znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/znuny?style=social&color=white)](https://github.com/znuny/znuny/stargazers)  
   Enterprise-grade fork of OTRS (GPL-3.0) for self-service customer interfaces, SLA lifecycle management, ticket escalation routines, and 3rd-party ERP/CRM integration. Active open-source community with over a decade of production stability.
 
-- 🛡️ **[Casilium](https://github.com/Casilium/casilium)** [![GitHub Stars](https://img.shields.io/github/stars/Casilium/casilium?style=social&color=white)](https://github.com/Casilium/casilium/stargazers)  
+- 🛡️ **[Casilium](https://github.com/Casilium/casilium)** [![GitHub_Stars](https://img.shields.io/github/stars/Casilium/casilium?style=social&color=white)](https://github.com/Casilium/casilium/stargazers)  
   Self-hosted helpdesk and ticketing platform (Apache-2.0) built on Mezzio and Doctrine ORM. Multi-organisation workflows, SLA-driven due dates based on business hours, RBAC permissions with optional MFA, and email intake.
 
-- 🌱 **[Farik HRMS](https://github.com/SamoTech/Farik)** [![GitHub Stars](https://img.shields.io/github/stars/SamoTech/Farik?style=social&color=white)](https://github.com/SamoTech/Farik/stargazers)  
+- 🌱 **[Farik HRMS](https://github.com/SamoTech/Farik)** [![GitHub_Stars](https://img.shields.io/github/stars/SamoTech/Farik?style=social&color=white)](https://github.com/SamoTech/Farik/stargazers)  
   Lightweight modern HRMS (MIT) designed for startup teams. Includes People Directory, Kanban recruitment, Employee Helpdesk for HR requests, and attendance tracking with 5-minute Vercel / local deployment.
 
-- 🦁 **[SafariDesk](https://github.com/SafariDeskTicketing/safaridesk)** [![GitHub Stars](https://img.shields.io/github/stars/SafariDeskTicketing/safaridesk?style=social&color=white)](https://github.com/SafariDeskTicketing/safaridesk/stargazers)  
+- 🦁 **[SafariDesk](https://github.com/SafariDeskTicketing/safaridesk)** [![GitHub_Stars](https://img.shields.io/github/stars/SafariDeskTicketing/safaridesk?style=social&color=white)](https://github.com/SafariDeskTicketing/safaridesk/stargazers)  
   Modern open-source help desk built with Django 5.0, React 18, PostgreSQL 16, and Redis. Features SLA-aware operations, AI-powered knowledge base with pgvector semantic search, Gemini AI chatbot integration, and Slack/Teams intake.
 
-- 🏢 **[Keptel TIMS](https://github.com/sanjayy-gowdaa/tru-tims)** [![GitHub Stars](https://img.shields.io/github/stars/sanjayy-gowdaa/tru-tims?style=social&color=white)](https://github.com/sanjayy-gowdaa/tru-tims/stargazers)  
+- 🏢 **[Keptel TIMS](https://github.com/sanjayy-gowdaa/tru-tims)** [![GitHub_Stars](https://img.shields.io/github/stars/sanjayy-gowdaa/tru-tims?style=social&color=white)](https://github.com/sanjayy-gowdaa/tru-tims/stargazers)  
   Enterprise Ticket &amp; Issue Management System fork tailored for internal operations across IT, HR, and Facilities with two-factor authentication (2FA) and containerized deployment.
 
 ---
@@ -193,7 +193,7 @@ Contributions are warmly welcomed! Help make this the most comprehensive and up-
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-desk`.
-3. 📝 **Add your entry**: Follow the existing format (include product/repo name, official link, GitHub star badge, pricing details/stars, and factual summary).
+3. 📝 **Add your entry**: Follow the existing format (include product/repo name, official link, GitHub Stars_Badge, pricing details/stars, and factual summary).
 4. 🧪 **Check formatting**: Ensure markdown tables and link anchors render cleanly.
 5. 📬 **Submit a Pull Request** with a descriptive summary of your additions.
 
